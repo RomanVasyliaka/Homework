@@ -9,7 +9,7 @@ public class MusicIstrument {
     int antique;
     int stringed;
     int winged;
-    int keyboarded;
+
 
     public void play(){}
 

@@ -10,7 +10,7 @@ public class Entertainments {
     int club;
     int football;
     int bowling;
-    int pool;
+
 
     public void fun(){}
 }

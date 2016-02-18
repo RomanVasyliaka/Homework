@@ -8,7 +8,7 @@ public class Food {
          int creationDate;
          int consistency;
          int taste;
-         int box;
+
 
     public void eat(){}
 

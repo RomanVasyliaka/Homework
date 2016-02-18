@@ -10,7 +10,7 @@ public class Houses {
     int doors;
     int floors;
     int windows;
-    int attic;
+
 
     public void build (){}
 

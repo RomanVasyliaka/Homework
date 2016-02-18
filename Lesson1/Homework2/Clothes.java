@@ -10,7 +10,6 @@ public class Clothes {
     int jacket;
     int shorts;
     int hats;
-    int gloves;
 
     public void putOn(){}
 }
